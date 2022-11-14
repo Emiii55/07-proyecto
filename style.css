@@ -1,0 +1,14 @@
+.color {
+    background-color: rgb(68, 60, 60)
+}
+.nav-link {
+    color: antiquewhite;
+}
+
+.nav-link:hover {
+    color: rgb(224, 170, 98);
+}
+
+.nav-link:focus {
+    color: rgb(224, 170, 98);
+}
