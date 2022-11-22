@@ -27,3 +27,78 @@ body {
 margin-top: 60px;
 margin-bottom: 60px;
 }
+
+#contenedor1 {
+    background-color: white;
+}
+
+#hyu {
+    margin-top: 20px;
+    margin-left: 18px;
+}
+
+#q {
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+#g {
+    margin-left: 35px;
+    margin-top: 30px;
+}
+
+#gato {
+    margin-left: 35px;
+    margin-top: 30px;
+}
+
+#visa {
+    margin-top: 17px;
+    margin-right: 12px;
+    margin-left: 18px;
+}
+
+#axion {
+    margin-top: 22px;
+    margin-left: 30px;
+}
+
+#bbva {
+    margin-top: 20px;
+}
+
+#american {
+    margin-top: 13px;
+}
+
+#trown {
+margin-left: 13px;
+margin-top: 15px;
+}
+
+#stanley {
+margin-top: 30px;
+margin-left: 45px;
+}
+
+#fredo {
+margin-left: 30px;
+margin-top: 20px;
+}
+
+#omb {
+margin-bottom: 18px;
+margin-top: 15px;
+}
+
+#ein {
+margin-left: 40px;
+}
+
+#mor {
+margin-left: 25px;
+}
+
+#cont1 {
+    background-color: azure;
+}

@@ -12,3 +12,19 @@
 .nav-link:focus {
     color: rgb(224, 170, 98);
 }
+
+#titulo {
+    color: rgb(214, 195, 113);
+}
+
+#fondito {
+    background-color: whitesmoke;
+}
+
+#fondofooter {
+    background-color: black;
+}
+
+#bodycard {
+    background-color: rgb(33, 33, 33);
+}
